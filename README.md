@@ -1,6 +1,3 @@
-# spotifyPlaylists
-Automatically creates Spotify playlists from liked songs 
-
 # Spotify Order
 
 Automatically organize liked Spotify songs into playlists by decade.

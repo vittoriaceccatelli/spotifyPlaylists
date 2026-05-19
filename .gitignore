@@ -1,12 +1,16 @@
+# Environment variables
 .env
 
+# Spotify auth cache
 .cache
 .spotify_cache
 
+# Python
 __pycache__/
 *.pyc
 
+# macOS
 .DS_Store
 
+# Virtual environments
 venv/
-.env/
